@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Abi-chhetri
+- 👀 I’m interested in full-stack development, Java backend, and exploring SQL and NoSQL databases.
+- 🌱 I’m currently learning Java backend development, Spring Framework, and improving my SQL skills.
+- 💞️ I’m looking to collaborate on backend development projects, open-source contributions, or anything related to Java development.
+- 📫 How to reach me: You can reach me via abichhetri6677@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about creating interactive web applications and learning new technologies!
+- 🧑‍💻 Aspiring to become a software engineer.
